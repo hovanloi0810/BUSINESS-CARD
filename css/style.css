@@ -38,7 +38,7 @@ html {
 }
 
 .card-body {
-    padding: 0px 36px 24px;
+    padding: 0px 32px 24px;
     background-color: #fff;
     border-bottom: 1px solid #F2F5F9;
 }
@@ -47,8 +47,7 @@ html {
     font-family: "Poppins", sans-serif;
     font-size: 24px;
     font-weight: 500;
-    padding-bottom: 10px;
-    letter-spacing: 1;
+    padding-bottom: 12px;
 }
 
 .card-body_desc {
@@ -61,7 +60,7 @@ html {
     display: flex;
     align-items: center;
     background-color: #fff;
-    padding: 24px 36px;
+    padding: 24px 32px;
     border-radius: 0 0 16px 16px;
 }
 
@@ -73,7 +72,7 @@ html {
 }
 
 .card-footer_info {
-    margin-left: 16px;
+    margin-left: 12px;
 }
 
 .card-info_name {
